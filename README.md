@@ -91,13 +91,10 @@ const nyxionx = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nyxionx66&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nyxionx66&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFB86C&currStreakLabel=FFB86C" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxionx66&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nyxionx66&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFB86C" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=nyxionx66&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxionx66&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFB86C&currStreakLabel=FFB86C" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxionx66&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxionx66&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFB86C" width="49%"/>
 </div>
 
 ---
@@ -112,14 +109,22 @@ const nyxionx = {
 
 ---
 
-## 🎨 Code Activity
+## 🎨 Code Activity (Wakatime)
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### To enable Wakatime stats:
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nyxionx66&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Wakatime Stats" />
+1. **Create a Wakatime account** at [wakatime.com](https://wakatime.com)
+2. **Install Wakatime plugin** in your IDE (VS Code, IntelliJ, etc.)
+3. **Get your Wakatime API Key** from [wakatime.com/settings/api-key](https://wakatime.com/settings/api-key)
+4. **Add Wakatime username** below and remove these instructions
+
+<!-- Uncomment and replace YOUR_WAKATIME_USERNAME after setup:
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact)
+-->
+
+> **Note:** Wakatime tracks your coding activity automatically once configured in your IDE.
 
 </div>
 
@@ -155,6 +160,9 @@ const nyxionx = {
 
 ![Snake animation](https://github.com/nyxionx66/nyxionx66/blob/output/github-contribution-grid-snake-dark.svg)
 
+> **Note:** The snake animation is automatically generated daily by GitHub Actions.
+> If you don't see it yet, wait a few minutes for the workflow to complete.
+
 </div>
 
 ---
@@ -170,5 +178,4 @@ const nyxionx = {
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 </div>

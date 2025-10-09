@@ -1,34 +1,4 @@
-<div align="center">
 
-# 🌟 Welcome to NyxionX's Digital Realm 🌟
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Java+Developer+%E2%98%95;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=nyxionx66&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/nyxionx66)
-
-</div>
-
----
-
-## 🎯 About Me
-
-```javascript
-const nyxionx = {
-    pronouns: "he" | "him",
-    location: "Digital Battlefield 🌐",
-    currentFocus: "Cybersecurity & Ethical Hacking",
-    interests: ["CTF Competitions", "Penetration Testing", "Web Security"],
-    dailyRoutine: {
-        morning: "☕ Coffee + Code Review",
-        afternoon: "🔨 Building Projects",
-        evening: "🎮 CTF Challenges",
-        night: "📚 Learning New Skills"
-    },
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
----
 
 ## 🚀 What I'm Up To
 
@@ -104,51 +74,6 @@ const nyxionx = {
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=nyxionx66&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 🎨 Code Activity (Wakatime)
-
-<div align="center">
-
-### To enable Wakatime stats:
-
-1. **Create a Wakatime account** at [wakatime.com](https://wakatime.com)
-2. **Install Wakatime plugin** in your IDE (VS Code, IntelliJ, etc.)
-3. **Get your Wakatime API Key** from [wakatime.com/settings/api-key](https://wakatime.com/settings/api-key)
-4. **Add Wakatime username** below and remove these instructions
-
-<!-- Uncomment and replace YOUR_WAKATIME_USERNAME after setup:
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact)
--->
-
-> **Note:** Wakatime tracks your coding activity automatically once configured in your IDE.
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyxionx66)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
